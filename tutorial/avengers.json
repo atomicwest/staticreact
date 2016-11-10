@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Sam Wilson",
+        "callsign": "Captain America",
+        "secondary": "Falcon",
+        "abilities": ["flight", "hand-to-hand combat"],
+        "equip": ["flight pack with shielding wings", "uzis", "goggles", "redwing drone"]
+    },
+    
+    {
+        "name": "Natasha Romanov",
+        "callsign": "Black Widow",
+        "secondary": "N/A",
+        "abilities": ["hand-to-hand combat", "espionage"],
+        "equip": ["electric gauntlets", "pistols"]
+    },
+
+    {
+        "name": "Wanda Maximoff",
+        "callsign": "Scarlet Witch",
+        "secondary": "N/A",
+        "abilities": ["magic", "more magic"],
+        "equip": ["red clothes"]
+    },
+    
+    {
+        "name": "Jake Oh",
+        "callsign": "War Machina",
+        "secondary": "War Machine 3.0",
+        "abilities": ["flight", "repulsor bursts"],
+        "equip": ["war machine armor"]
+    },
+    
+    {
+        "name": "Skye",
+        "callsign": "Quake",
+        "secondary": "Daisy Johnson",
+        "abilities": ["seismic waves", "hand-to-hand combat"],
+        "equip": ["gauntlets"]
+    },
+    
+    {
+        "name": "T'challa",
+        "callsign": "Black Panther",
+        "secondary": "N/A",
+        "abilities": ["super strength", "super speed"],
+        "equip": ["vibranium armor"]
+    }
+    
+]
